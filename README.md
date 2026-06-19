@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="logo.png" alt="Stormy Window Logo" width="180">
+<img src="logo.png" alt="Stormy Window Logo" width="1000">
 
 ### A cinematic storm simulation built with HTML, CSS, and JavaScript
 
